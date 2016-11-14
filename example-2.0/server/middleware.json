@@ -1,10 +1,16 @@
 {
   "initial:before": {
-    "loopback#favicon": {},
-    "loopback#compress": {}
+    "loopback#favicon": {}
   },
   "initial": {
-    "compression": {}
+    "compression": {},
+    "cors": {
+      "params": {
+        "origin": true,
+        "credentials": true,
+        "maxAge": 86400
+      }
+    }
   },
   "session": {
   },
@@ -26,6 +32,6 @@
     "loopback#urlNotFound": {}
   },
   "final:after": {
-    "errorhandler": {}
+    "strong-error-handler": {}
   }
 }
