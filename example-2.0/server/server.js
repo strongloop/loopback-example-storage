@@ -1,3 +1,6 @@
+// Copyright Owner 2016. All Rights Reserved.
+// Node module: 
+
 var loopback = require('loopback');
 var boot = require('loopback-boot');
 

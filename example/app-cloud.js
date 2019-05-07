@@ -1,3 +1,6 @@
+// Copyright Owner 2016. All Rights Reserved.
+// Node module: 
+
 var StorageService = require('../').StorageService;
 var path = require('path');
 var providers = null;

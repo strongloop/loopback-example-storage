@@ -1,3 +1,6 @@
+// Copyright Owner 2016. All Rights Reserved.
+// Node module: 
+
 var boot = require('loopback-boot');
 var compression =  require('compression');
 var loopback = require('loopback');

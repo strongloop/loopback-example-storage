@@ -1,3 +1,6 @@
+// Copyright Owner 2016. All Rights Reserved.
+// Node module: 
+
 angular.module('app', ['angularFileUpload'])
 
   // The example of the full functionality

@@ -1,3 +1,6 @@
+// Copyright Owner 2016. All Rights Reserved.
+// Node module: 
+
 /*
  Angular File Upload v0.3.3.1
  https://github.com/nervgh/angular-file-upload
