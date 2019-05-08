@@ -14,5 +14,6 @@
     "loopback-component-storage": "^1.5.0",
     "loopback-datasource-juggler": "^2.7.0",
     "serve-favicon": "^2.0.1"
-  }
+  },
+  "author": "IBM Corp."
 }
