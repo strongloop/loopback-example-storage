@@ -6,7 +6,16 @@
   "storage": {
     "name": "storage",
     "connector": "loopback-component-storage",
-    "provider": "filesystem",
-    "root": "./server/storage"
+    "provider": "google",
+    "keyFilename": "keyFile.json",
+    "projectId": "pmock-255518",
+    "nameConflict": "makeUnique"
+  },
+  "userVideo": {
+    "name": "userVideo",
+    "connector": "loopback-component-storage",
+    "provider": "google",
+    "key": "AIzaSyBesMbX1EsCIsOfatGEp75QMkWRrCExyaE",
+    "keyId": "837fba359c2a3cc272dc2b26e541017d15dbf82d"
   }
 }

@@ -1,11 +1,6 @@
 {
-  "rackspace": {
-    "username": "your-rackspace-username",
-    "apiKey": "your-rackspace-api-key",
-    "region": "DFW"
-  },
-  "amazon": {
-    "key": "your-amazon-key",
-    "keyId": "your-amazon-key-id"
+  "google": {
+    "key":"AIzaSyBesMbX1EsCIsOfatGEp75QMkWRrCExyaE",
+    "keyId": "837fba359c2a3cc272dc2b26e541017d15dbf82d"
   }
 }
